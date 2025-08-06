@@ -1,0 +1,13 @@
+React app with mongo backend containerized in docker  Export of data to excel and reports. 
+logins for each employee. Square payment. auto email of clients. You are a professional coder. Do not fake any tests or routines. 
+
+** lead management ** 
+- a form to enter new information about case leads. 
+  Name, contact, case type email, phone
+** case management ** 
+- customer information form. document store of documents related to case. 
+- calendar with important dates
+** Billing **
+Payments linked to square, also allowing for the entry of data about cash payments. 
+** employee managment ** 
+- an admin panel to add/remove case managers and managing attorneys. 
